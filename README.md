@@ -1,1 +1,1 @@
-This repo is fir the files used in the [IBM Capstone Project offered through Coursera](https://www.coursera.org/learn/ibm-data-analyst-capstone-project/home/) i
+This repo is for the files used in the [IBM Capstone Project offered through Coursera](https://www.coursera.org/learn/ibm-data-analyst-capstone-project/home/) as part of the IBM Data Analyst Professional Certificate.
